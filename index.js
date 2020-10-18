@@ -23,3 +23,4 @@ bot.on('message', msg => {
     }
   }
 });
+node index.js
